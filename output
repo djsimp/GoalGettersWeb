@@ -1,0 +1,18 @@
+nohup: ignoring input
+[0mGET / [32m200 [0m547.384 ms - 170[0m
+[0mGET /stylesheets/style.css [32m200 [0m5.508 ms - 111[0m
+[0mGET /auth.html [32m200 [0m10.653 ms - 7677[0m
+[0mGET /main.css [32m200 [0m0.968 ms - 1227[0m
+[0mGET /firebase-logo.png [32m200 [0m9.033 ms - 17144[0m
+[0mGET /auth.html [32m200 [0m0.698 ms - 7677[0m
+[0mGET /main.css [32m200 [0m1.101 ms - 1227[0m
+[0mGET /firebase-logo.png [32m200 [0m0.612 ms - 17144[0m
+[0mGET /auth.html [32m200 [0m2.294 ms - 7677[0m
+[0mGET /main.css [32m200 [0m1.108 ms - 1227[0m
+[0mGET /firebase-logo.png [32m200 [0m0.958 ms - 17144[0m
+[0mGET /favicon.ico [33m404 [0m71.413 ms - 1215[0m
+[0mGET / [32m200 [0m59.256 ms - 170[0m
+[0mGET /stylesheets/style.css [32m200 [0m4.128 ms - 111[0m
+[0mGET /auth.html [32m200 [0m0.802 ms - 7677[0m
+[0mGET /main.css [32m200 [0m0.620 ms - 1227[0m
+[0mGET /firebase-logo.png [32m200 [0m0.656 ms - 17144[0m
